@@ -13,6 +13,14 @@
 
 </div>
 
+<p align="center">
+  <a href="docs/images/rescuemesh-prototype.png">
+    <img src="docs/images/rescuemesh-prototype.png" width="260" alt="RescueMesh handheld prototype with antenna, display and control buttons">
+  </a>
+  <br>
+  <sub>Original prototype photograph supplied by project collaborator Nimesha Nanayakkara. Click to view full size.</sub>
+</p>
+
 RescueMesh explores how battery-powered nodes can exchange SOS messages when
 normal connectivity is unavailable. ESP32 controllers communicate through
 AS32-TTL-100 LoRa radios, with progressive experiments covering broadcast,
@@ -58,8 +66,9 @@ An operational LoRaWAN network server and LoRaWAN compliance are not demonstrate
 </p>
 
 These are design assets. The power-path and enclosure documentation credits
-**Lasindu Viduranga**. Hardware photographs, calibrated power measurements and
-repeatable field-range data can be added with their test conditions.
+**Lasindu Viduranga**. The photograph above documents the assembled prototype;
+calibrated power measurements and repeatable field-range data still need to
+be added with their test conditions.
 
 ## Getting started
 
