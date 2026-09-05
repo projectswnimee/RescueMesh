@@ -1,0 +1,11 @@
+# Local credentials and build artifacts
+**/secrets.h
+.env
+*.bin
+*.elf
+*.hex
+.pio/
+**/build/
+*.kicad_prl
+**/fp-info-cache
+*.bak
